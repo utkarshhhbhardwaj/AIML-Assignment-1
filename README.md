@@ -7,9 +7,9 @@ Predict student exam scores using study hours and sleep hours.
 
 ## Dataset
 The dataset contains:
-- Hours_Studied
-- Sleep_Hours
-- Score
+ Hours_Studied
+ Sleep_Hours
+ Score
 
 ## Model Used
 Linear Regression (Scikit-learn)
